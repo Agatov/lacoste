@@ -1,8 +1,8 @@
 # Bundler tasks
 require 'bundler/capistrano'
 
-set :application, "versace"
-set :repository,  "git@github.com:Agatov/versace.git"
+set :application, "lacoste"
+set :repository,  "git@github.com:Agatov/lacoste.git"
 
 set :scm, :git
 
